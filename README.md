@@ -1,6 +1,6 @@
 # Digital History文件整理
 
-> ​     Digital history is the use of digital media andcomputational analytics for furthering historicalpractice, presentation, analysis, or research. It is abranch of the Digital humanities and an outgrowth ofquantitative history, cliometrics, and history andcomputing.
+>      Digital history is the use of digital media and computational analytics for furthering historical practice, presentation, analysis, or research. It is a branch of the Digital Humanities and an outgrowth of quantitative history, cliometrics, and history and computing.
 
 
 
@@ -18,13 +18,13 @@
 
 这书序言介绍了三位作者的不同经历，最后附上了一段话，我非常喜欢，摘录如下：
 
-> ​      将我们的个人经历联系到一起就会发现一个关键的共同点，即，尽管走了一些弯路，但我们都渴望透过现象看到本质。
+>       将我们的个人经历联系到一起就会发现一个关键的共同点，即，尽管走了一些弯路，但我们都渴望透过现象看到本质。
 
 
 
 
 
-#### 《Digital History：A Guide to Gathering , Preserving, and Presenting the Past on the Web》
+###​ 《Digital History：A Guide to Gathering, Preserving, and Presenting the Past on the Web》
 
 上书与此书可搭配使用，并且可以去The Programming Historian网站学习相应的课程
 
@@ -46,7 +46,7 @@
 
 
 
-### 《Uncharted:Big Data as a Lens on Human Culture》
+### 《Uncharted: ​Big Data as a Lens on Human Culture》
 
 意图创建一个研究人类历史的视角
 
