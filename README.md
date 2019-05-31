@@ -24,7 +24,7 @@
 
 
 
-###​ 《Digital History：A Guide to Gathering, Preserving, and Presenting the Past on the Web》
+### 《Digital History：A Guide to Gathering, Preserving, and Presenting the Past on the Web》
 
 上书与此书可搭配使用，并且可以去The Programming Historian网站学习相应的课程
 
